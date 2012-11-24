@@ -1,0 +1,123 @@
+
+	html{
+		height:100%;
+		width:100%;
+	}
+	
+	body{
+		margin:0;
+		font-family: Helvetica, Arial, sans-serif;
+		color:#fff;
+		font-size:15px;
+		line-height:20px;
+		background:#000;
+		background-image: url('../assets/background.jpg');
+		background-attachment:fixed;
+		text-shadow: black 0.1em 0.1em .2em;
+	}
+
+	a:link {
+		color: #EEE;
+	}
+
+	a:hover {
+		color: #666;
+	}
+
+	#header {
+		text-align: center;
+	}
+
+	#workspace{
+		position:relative;
+		padding:0px;
+		width:80%;
+	}
+
+	.container{
+		position:absolute;
+		height:500px;
+		width:300px;
+		text-align:justify;
+		margin-top:0px;
+		font-size:10px;
+		text-shadow: black 0.1em 0.1em 1em;
+		-webkit-hyphens:auto;
+	}
+	
+
+	.heading {
+		font-size: 16px;
+		font-weight: bold;
+	}
+
+	#irishpint1 {
+		left:0px;
+	}
+
+	.irishpint {
+		-webkit-shape-inside: polygon(157px 473px, 106px 472px, 93px 453px, 91px 432px, 87px 401px, 84px 368px, 78px 332px, 70px 294px, 61px 255px, 57px 225px, 55px 191px, 55px 165px, 57px 128px, 63px 118px, 165px 118px, 274px 120px, 279px 128px, 282px 164px, 282px 190px, 282px 226px, 274px 263px, 267px 296px, 257px 337px, 253px 368px, 250px 397px, 246px 427px, 244px 453px, 233px 473px, 173px 473px);
+	}
+
+
+	#weissbierflute1 {
+		left:305px;	
+	}
+
+	.weissbierflute {
+		-webkit-shape-inside: polygon(104px 470px, 82px 459px, 81px 439px, 90px 400px, 105px 344px, 102px 294px, 86px 238px, 72px 183px, 66px 128px, 62px 77px, 59px 39px, 58px 17px, 57px 0, 280px 0, 279px 17px, 278px 41px, 276px 74px, 271px 128px, 265px 182px, 251px 238px, 234px 299px, 232px 344px, 248px 400px, 255px 434px, 252px 463px, 215px 473px);
+	}
+
+	#pintglass1 {
+		left:610px;	
+	}
+
+	.pintglass {
+		-webkit-shape-inside:  polygon(98px 473px, 88px 400px, 76px 298px, 57px 121px, 130px 121px, 219px 121px, 280px 121px, 261px 298px, 250px 400px, 242px 473px);
+	}
+
+
+	#snifter1 {
+		left: 915px;
+	}
+
+	.snifter {
+		-webkit-shape-inside:  polygon(149px 473px, 96px 468px, 147px 436px, 154px 401px, 140px 358px, 73px 312px, 50px 262px, 51px 214px, 63px 172px, 74px 137px, 82px 115px, 89px 98px, 247px 98px, 254px 115px, 261px 138px, 271px 168px, 284px 212px, 287px 257px, 266px 309px, 201px 358px, 182px 401px, 189px 436px, 240px 468px, 187px 473px);
+	}
+
+
+	#pilsnerflute1 {
+		top: 750px;	
+	}
+
+	.pilsnerflute {
+		-webkit-shape-inside:  polygon(144px 478px, 118px 476px, 68px 469px, 116px 449px, 111px 399px, 67px 134px, 55px 64px, 47px 0px, 168px 0px, 290px 0px, 282px 65px, 270px 134px, 226px 399px, 221px 449px, 267px 469px, 224px 476px, 193px 478px);
+	}
+
+	#tulipglass1 {
+		top: 750px;
+		left: 305px;	
+	}
+
+	.tulipglass {
+		-webkit-shape-inside:  polygon(91px 474px, 140px 454px, 139px 416px, 127px 376px, 99px 365px, 63px 329px, 49px 289px, 49px 258px, 64px 201px, 79px 157px, 81px 133px, 69px 98px, 167px 98px, 181px 98px, 268px 98px, 257px 135px, 258px 160px, 274px 207px, 288px 258px, 288px 288px, 274px 329px, 248px 359px, 210px 382px, 199px 416px, 200px 452px, 245px 474px);
+	}
+
+	#goblet1 {
+		top: 750px;
+		left: 610px;				
+	}
+
+	.goblet {
+		-webkit-shape-inside:  polygon(154px 476px, 95px 473px, 53px 466px, 53px 459px, 144px 432px, 152px 354px, 145px 302px, 120px 293px, 105px 276px, 74px 240px, 60px 199px, 49px 152px, 46px 118px, 44px 98px, 169px 96px, 291px 98px, 293px 118px, 290px 152px, 279px 199px, 263px 236px, 236px 275px, 216px 293px, 191px 302px, 181px 355px, 187px 432px, 281px 459px, 281px 466px, 227px 473px, 183px 476px);
+	
+	}
+
+	#pokal1 {
+		top: 750px;
+		left: 915px;		
+	}
+
+	.pokal {
+		-webkit-shape-inside:  polygon(126px 477px, 87px 468px, 115px 456px, 141px 430px, 137px 403px, 123px 376px, 106px 369px, 100px 359px, 89px 268px, 86px 236px, 82px 200px, 79px 172px, 75px 142px, 73px 120px, 71px 93px, 157px 93px, 178px 93px, 266px 93px, 264px 120px, 262px 139px, 259px 164px, 255px 199px, 251px 238px, 247px 272px, 238px 359px, 232px 369px, 211px 375px, 198px 402px, 193px 431px, 220px 456px, 246px 468px, 212px 478px);
+	}

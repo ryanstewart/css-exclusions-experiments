@@ -1,4 +1,4 @@
-css-exclusions-experiments
-==========================
+Demo of the CSS Exclusions spec by Ryan Stewart
+ryan@adobe.com
 
-CSS Exclusion Demos
+You'll need the browser here - http://labs.adobe.com/downloads/cssregions.html to view the content.
