@@ -1,4 +1,4 @@
 Demo of the CSS Exclusions spec by Ryan Stewart
 ryan@adobe.com
 
-You'll need the browser here - http://labs.adobe.com/downloads/cssregions.html to view the content.
+You'll need to use Google Chrome Canary with the Experimental Webkit Flags enabled. More info here - http://adobe.github.com/web-platform/samples/css-exclusions/
